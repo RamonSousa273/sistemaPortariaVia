@@ -1,0 +1,100 @@
+body{
+  background-image: url("img/t3.png");
+  background-size: 100vw 100vh;
+}
+#menu ul {
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+#menu ul li { display: inline; }
+.divTable{
+  width: 85vw;
+  height: auto;
+}
+#botaoPessoas{
+  border-radius: 0px 0px 40px 0px;
+}
+#table{
+  display: none;
+}
+#table1{
+  display: none;
+}
+#ajustadinha{
+  width: 200px;
+}
+.ajustaBotao{
+  float: right;
+  height: auto;
+  width: 20vw;
+}
+.PendenteEntrada{
+  clear: both;
+}
+.PendenteSaida{
+  clear: both;
+}
+.ajustaTabela{
+  width: 100%;
+  height: auto;
+  display: flex;
+         flex-direction: row;
+        justify-content: center;
+        align-items: center;
+}
+h3{
+  text-align: center;
+}
+
+.VeiculoE{
+  background-color: #A4A4A4;
+}
+.VeiculoS{
+  background-color: #40FF00;
+}
+a{
+  color: black;
+}
+i{
+  color: black;
+}
+#teste{
+  color: white;
+}
+.TVeiculoE{
+  text-align: center;
+  color: white;
+  background-color: #0040FF;
+}
+.TVeiculoS{
+  text-align: center;
+  color: white;
+  background-color: #0040FF;
+}
+table{
+  text-align: center;
+}
+.divRelatorio{
+  width: 100vw;
+  max-height: 95vh;
+  overflow: auto;
+
+    border-radius: 2px;
+}
+p{
+  padding: 4px;
+  background-color: white;
+  text-align: center;
+}
+p input{
+  margin-left: 50px;
+}
+.cadastro{
+  width: 80vw;
+  margin-left: 10vw;
+  max-height: 80vh;
+  overflow: auto;
+
+    border-radius: 2px;
+}

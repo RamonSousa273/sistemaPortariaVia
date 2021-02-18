@@ -1,0 +1,13 @@
+.divLogin{
+  width: 20vw;
+  height: auto;
+  padding: 20px;
+  margin-left: 39vw;
+  margin-top: 36vh;
+  background-color: #F7D358;
+  border-radius: 5px;
+}
+body{
+  background-image: url("img/t3.png");
+  background-size: 100vw 100vh;
+}

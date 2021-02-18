@@ -1,0 +1,902 @@
+[08-Jul-2020 15:16:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viaexp72/public_html/sistemaportaria/pessoas.php:55
+Stack trace:
+#0 {main}
+  thrown in /home2/viaexp72/public_html/sistemaportaria/pessoas.php on line 55
+[08-Jul-2020 15:17:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viaexp72/public_html/sistemaportaria/veiculos.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/viaexp72/public_html/sistemaportaria/veiculos.php on line 84
+[15-Jul-2020 23:48:04 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 08:19:35 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 08:19:35 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 10:35:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 10:35:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 13:32:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 13:32:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 16:25:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 16:25:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 17:00:36 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 19:05:04 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 20:50:22 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 22:38:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 23:56:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[16-Jul-2020 23:56:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[17-Jul-2020 02:30:37 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[17-Jul-2020 18:22:54 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[17-Jul-2020 18:24:54 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[17-Jul-2020 20:56:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[18-Jul-2020 00:20:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 07:42:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 07:42:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 08:09:25 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 08:09:25 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 10:33:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 10:33:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 13:13:30 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 13:13:30 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 14:23:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 14:49:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 14:49:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 15:41:44 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 15:41:44 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 16:20:22 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 16:20:22 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 18:35:20 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 19:02:19 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 19:06:16 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[20-Jul-2020 22:41:27 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[21-Jul-2020 03:52:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[21-Jul-2020 11:45:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[21-Jul-2020 15:08:47 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[21-Jul-2020 16:19:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[21-Jul-2020 18:38:35 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 03:50:55 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 07:29:09 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 07:29:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 07:30:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 08:49:07 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 11:14:11 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 11:14:11 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 11:45:39 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 11:45:39 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 12:56:49 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 12:56:49 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 16:06:07 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 16:25:49 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/processa.php on line 155
+[22-Jul-2020 17:30:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 123
+[22-Jul-2020 17:30:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 123
+[22-Jul-2020 17:30:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 123
+[22-Jul-2020 17:30:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 123
+[22-Jul-2020 17:30:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 123
+[22-Jul-2020 17:30:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 123
+[22-Jul-2020 18:11:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 18:11:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 18:11:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 18:11:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 18:11:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 18:11:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 18:11:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 19:08:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 19:08:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 19:08:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 19:08:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 19:08:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 19:08:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 19:08:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 19:08:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 19:08:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 19:08:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 21:47:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 22:01:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 22:01:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 22:01:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 22:01:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 22:01:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 22:01:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 22:01:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 22:01:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 22:01:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[22-Jul-2020 22:01:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[23-Jul-2020 14:59:09 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[23-Jul-2020 14:59:09 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[23-Jul-2020 15:28:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[23-Jul-2020 15:28:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[23-Jul-2020 15:28:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[23-Jul-2020 15:28:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[23-Jul-2020 15:28:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[23-Jul-2020 15:28:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[23-Jul-2020 15:28:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[23-Jul-2020 15:28:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[23-Jul-2020 15:28:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[23-Jul-2020 15:28:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 08:09:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 14:34:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 14:34:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 14:35:01 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 14:35:01 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 202
+[24-Jul-2020 14:37:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 14:37:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 14:43:16 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 14:43:16 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 14:53:20 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 14:53:20 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 14:53:20 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:15:09 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:15:09 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:15:09 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:15:09 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:16:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:16:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:16:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:16:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:16:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:16:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:16:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:16:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:26:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:26:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:26:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:26:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:30:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:30:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:30:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 15:30:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 16:04:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 16:04:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 16:04:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 16:04:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 17:46:08 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 17:46:08 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 17:46:08 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 17:46:08 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 17:52:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 17:52:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 17:52:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 17:52:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 18:23:04 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 18:23:04 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 18:23:04 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 18:23:04 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[24-Jul-2020 18:23:04 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 10:02:25 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 11:21:37 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 11:21:37 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 11:21:37 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 12:59:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 12:59:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 12:59:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 13:01:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 13:01:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 13:01:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 13:20:06 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 13:20:06 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 13:20:06 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 13:57:25 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 13:57:25 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 13:57:25 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:30:06 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:30:06 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:30:06 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:30:16 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:30:16 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:30:16 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:38:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:38:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:38:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:57:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:57:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 15:57:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 16:49:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 16:49:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 16:49:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 17:15:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 17:15:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 17:15:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 17:19:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 17:19:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 17:19:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 18:59:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 18:59:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[27-Jul-2020 18:59:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 125
+[31-Jul-2020 15:12:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:12:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:28:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:28:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:28:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:28:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:28:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:28:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:28:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[31-Jul-2020 15:28:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 209
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 226
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 226
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 229
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 226
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 229
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 226
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 229
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 226
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 229
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 226
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 229
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 226
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 229
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 226
+[03-Aug-2020 17:17:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 229
+[12-Aug-2020 21:30:32 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[12-Aug-2020 21:30:37 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[21-Aug-2020 17:05:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:06:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:06:26 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:08:34 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:09:46 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:13:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[21-Aug-2020 17:14:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[21-Aug-2020 17:15:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:16:20 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[21-Aug-2020 17:16:47 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[21-Aug-2020 17:23:04 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:30:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:30:34 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:30:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:33:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[21-Aug-2020 17:33:43 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[21-Aug-2020 17:35:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[22-Aug-2020 02:32:30 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[22-Aug-2020 02:38:16 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[22-Aug-2020 06:37:58 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[23-Aug-2020 06:35:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[23-Aug-2020 06:36:35 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[24-Aug-2020 12:01:35 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[24-Aug-2020 12:10:44 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[28-Aug-2020 17:24:40 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[10-Sep-2020 17:07:06 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 07:37:22 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 07:37:22 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 07:37:28 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[25-Nov-2020 07:37:28 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[25-Nov-2020 07:52:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 07:52:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 10:05:11 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 113
+[25-Nov-2020 10:05:11 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 116
+[25-Nov-2020 10:21:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 209
+[25-Nov-2020 10:21:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 212
+[25-Nov-2020 10:21:49 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 113
+[25-Nov-2020 10:21:49 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 116
+[25-Nov-2020 10:21:52 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 209
+[25-Nov-2020 10:21:52 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 212
+[25-Nov-2020 10:50:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 10:50:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 10:56:19 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 10:56:19 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 10:58:27 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 10:58:27 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 11:24:13 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 11:24:13 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 11:51:20 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 11:51:20 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 11:55:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 11:55:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 11:56:06 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 11:56:06 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 11:56:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 11:56:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 11:59:08 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 11:59:08 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 13:40:26 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 13:40:26 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 14:18:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 14:18:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 14:19:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 14:19:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 14:40:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 14:40:29 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 14:41:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 14:41:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 15:44:50 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 113
+[25-Nov-2020 15:44:50 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 116
+[25-Nov-2020 18:13:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 113
+[25-Nov-2020 18:13:32 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 116
+[25-Nov-2020 19:52:44 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 19:52:44 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 20:23:28 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 20:23:28 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 21:55:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 21:55:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 21:55:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 21:55:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[25-Nov-2020 22:15:49 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 131
+[25-Nov-2020 22:15:49 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 134
+[26-Nov-2020 00:40:14 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 00:40:14 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:00:25 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:00:25 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:11:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:11:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:13:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:13:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:14:15 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:14:15 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:38 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:39 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:15:39 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 05:20:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 05:20:31 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[26-Nov-2020 21:37:26 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[26-Nov-2020 21:37:26 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 239
+[04-Dec-2020 09:33:33 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/relatorio.php on line 242
+[08-Dec-2020 19:16:28 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 209
+[08-Dec-2020 19:16:28 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/viaexp72/public_html/sistemaportaria/homeop.php on line 212
+[10-Dec-2020 17:06:35 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:06:36 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:06:41 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:06:42 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:06:46 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:06:47 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:06:48 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:06:51 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:06:53 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:06:57 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:06:59 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:02 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:04 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:08 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:10 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:13 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:16 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:19 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:21 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:24 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:27 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:30 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:33 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:35 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:38 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:40 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:44 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:46 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:49 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:51 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:55 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:07:57 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:01 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:02 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:06 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:08 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:12 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:13 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:17 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:19 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:23 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:24 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:29 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:29 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:34 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:35 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:40 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:40 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:45 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:46 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:51 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:51 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:56 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:08:57 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:02 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:02 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:07 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:08 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:13 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:13 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:18 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:19 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:24 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:24 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:29 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:30 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:35 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:36 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:40 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:41 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:46 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:47 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:51 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:52 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:56 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:09:58 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:02 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:03 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:07 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:09 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:13 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:14 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:18 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:20 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:24 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:26 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:29 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:31 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:34 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:37 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:40 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:42 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:45 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:48 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:51 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:53 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:56 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:10:59 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:02 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:04 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:07 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:10 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:13 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:16 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:18 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:18 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:21 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:24 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:27 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:29 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:32 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:34 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:38 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:40 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:43 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:45 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:49 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:51 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:54 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:11:56 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:00 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:02 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:06 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:07 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:11 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:12 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:13 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:17 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:18 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:22 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:23 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:28 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:29 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:33 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:34 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:39 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:40 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:44 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:45 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:50 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:51 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:55 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:12:56 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:01 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:02 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:09 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:09 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:09 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:15 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:15 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:20 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:20 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:26 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:31 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:36 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:41 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:42 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:47 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:52 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:53 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:13:58 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:04 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:09 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:14 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:15 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:20 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:20 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:25 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:31 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:36 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:38 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:42 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:47 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:53 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:54 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:14:58 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:03 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:07 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:09 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:14 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:20 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:22 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:25 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:31 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:36 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:38 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:41 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:47 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:52 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:54 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:15:58 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:03 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:09 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:11 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:14 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:20 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:23 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:25 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:30 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:33 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:36 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:41 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:44 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:47 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:52 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:57 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:16:58 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:17:03 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:17:09 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:17:14 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaexp72_viaport'@'localhost' (using password: YES) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 9
+[10-Dec-2020 17:17:19 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[10-Dec-2020 17:17:25 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[10-Dec-2020 17:17:27 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[10-Dec-2020 17:17:30 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[10-Dec-2020 17:17:34 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[10-Dec-2020 17:17:36 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[10-Dec-2020 17:17:41 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[10-Dec-2020 17:17:47 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[10-Dec-2020 17:17:51 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[10-Dec-2020 17:17:52 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[10-Dec-2020 17:17:58 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 11
+[03-Feb-2021 00:07:22 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/viaexp72/public_html/sistemaportaria/conexao.php on line 8

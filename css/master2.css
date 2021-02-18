@@ -1,0 +1,82 @@
+body{
+  background-image: url("img/t3v5.png");
+  background-size: 100vw 100vh;
+}
+#menu ul {
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+#menu ul li { display: inline; }
+.divTable{
+  width: 88vw;
+  height: 50px;
+}
+#botaoPessoas{
+  border-radius: 0px 0px 40px 0px;
+}
+#table{
+  display: none;
+}
+#table1{
+  display: none;
+}
+.ajustaBotao{
+  float: right;
+  height: auto;
+  width: 20vw;
+}
+h3{
+  text-align: center;
+}
+
+.VeiculoE{
+  background-color: #A4A4A4;
+}
+.VeiculoS{
+  background-color: #40FF00;
+}
+a{
+  color: black;
+}
+i{
+  color: black;
+}
+#teste{
+  color: white;
+}
+.TVeiculoE{
+  text-align: center;
+  color: white;
+  background-color: #0040FF;
+}
+.TVeiculoS{
+  text-align: center;
+  color: white;
+  background-color: #0040FF;
+}
+table{
+  text-align: center;
+}
+.divRelatorio{
+  width: 80vw;
+  margin-left: 10vw;
+  max-height: 80vh;
+  overflow: auto;
+
+    border-radius: 2px;
+}
+p{
+  text-align: center;
+}
+p input{
+  margin-left: 50px;
+}
+.cadastro{
+  width: 80vw;
+  margin-left: 10vw;
+  max-height: 80vh;
+  overflow: auto;
+
+    border-radius: 2px;
+}
